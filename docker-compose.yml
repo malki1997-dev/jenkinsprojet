@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  projetjenkinse:
+    image: ${DOCKER_REGISTRY-}projetjenkinse
+    build:
+      context: .
+      dockerfile: projetjenkinse/Dockerfile

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Jenkinse\\projetjenkinse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EC992B-5A10-40A6-A73D-A80B921BBB5E}|projetjenkinse\\projetjenkinse.csproj|c:\\users\\dell\\desktop\\jenkinse\\projetjenkinse\\projetjenkinse\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4EC992B-5A10-40A6-A73D-A80B921BBB5E}|projetjenkinse\\projetjenkinse.csproj|solutionrelative:projetjenkinse\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDC064-0AD5-4C77-9F19-AF287F2D6F56}|docker-compose.dcproj|c:\\users\\dell\\desktop\\jenkinse\\projetjenkinse\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9BDC064-0AD5-4C77-9F19-AF287F2D6F56}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Jenkinse\\projetjenkinse\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Jenkinse\\projetjenkinse\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-31T20:24:34.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Jenkinse\\projetjenkinse\\projetjenkinse\\Dockerfile",
+              "RelativeDocumentMoniker": "projetjenkinse\\Dockerfile",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Jenkinse\\projetjenkinse\\projetjenkinse\\Dockerfile",
+              "RelativeToolTip": "projetjenkinse\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-31T20:24:16.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
